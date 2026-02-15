@@ -136,7 +136,7 @@ const irfan = {
 - 🔭 Mengembangkan **Portfolio Website & Web Applications**
 - 🌱 Mempelajari **React Native untuk Mobile Development**
 - 🌱 Mendalami **Laravel untuk Backend Development**
-- 🏗️ Membangun **RESTful API** dengan Express.js dan Laravel
+- 🏗️ Membangun **RESTful API** dengan React dan Laravel
 - 👯 Terbuka untuk **kolaborasi project Open Source**
 - 💬 Diskusi tentang **JavaScript, React, Web Development, atau teknologi apapun!**
 - 📫 Email saya: **irfanramadhan.dev@gmail.com**
@@ -146,19 +146,19 @@ const irfan = {
 ## Mari Terhubung!
 
 <p align="center">
-  <a href="https://linkedin.com/in/irfan-nur-ramadan" target="_blank">
+  <a href="https://linkedin.com/in/irfan-nur-ramadan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://irfanramadhan-portfolio.vercel.app/" target="_blank">
+  <a href="https://irfanramadhan-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:irfanramadhan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/6281392813981" target="_blank">
+  <a href="https://wa.me/6281392813981">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/irfanramadhan-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -167,16 +167,6 @@ const irfan = {
 
 ## Featured Projects
 
-<div align="center">
-
-<!-- Ganti dengan repository Anda yang ingin di-highlight -->
-<a href="https://github.com/irfanramadhan-dev/sejahtera-service-electronic/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
