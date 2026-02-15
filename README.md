@@ -69,7 +69,7 @@ const irfan = {
   </a>
 </p>
 
-### ⚙️ Backend & API Development
+### Backend & API Development
 
 <p align="center">
   <a href="https://nodejs.org" rel="noreferrer">
