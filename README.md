@@ -2,12 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo!+%F0%9F%91%8B+Saya+Irfan+Ramadhan;Full+Stack+Web+Developer;Dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Membangun Web App yang Keren dan Bermakna</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Pengunjung" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="Followers" />
-</p>
+<h3 align="center">Membangun Web App yang Keren dan Bermakna</h3>
 
 ---
 
@@ -25,7 +20,7 @@ const irfan = {
         tools: ["Git", "Docker", "VS Code", "Postman"]
     },
     hobi: ["Coding", "Problem Solving", "Belajar Teknologi Baru"],
-    faktaMenarik: "90% bug saya fix pakai console.log() 😄"
+    faktaMenarik: "90% bug saya fix pakai console.log()"
 };
 ```
 
@@ -35,25 +30,25 @@ const irfan = {
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,7 +57,7 @@ const irfan = {
 
 ---
 
-## 🎯 Apa yang Sedang Saya Kerjakan
+## Apa yang Sedang Saya Kerjakan
 
 - 🔭 Mengembangkan **Portfolio Website & Web Applications**
 - 🌱 Mempelajari **React Native untuk Mobile Development**
@@ -73,7 +68,7 @@ const irfan = {
 
 ---
 
-## 🌐 Mari Terhubung!
+## Mari Terhubung!
 
 <div align="center">
 
