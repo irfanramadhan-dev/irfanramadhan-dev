@@ -136,7 +136,7 @@ const irfan = {
 - 🔭 Mengembangkan **Portfolio Website & Web Applications**
 - 🌱 Mempelajari **React Native untuk Mobile Development**
 - 🌱 Mendalami **Laravel untuk Backend Development**
-- 🏗️ Membangun **RESTful API** dengan React dan Laravel
+- 🏗️ Membangun **RESTful API** dengan Express.js dan Laravel
 - 👯 Terbuka untuk **kolaborasi project Open Source**
 - 💬 Diskusi tentang **JavaScript, React, atau Web Development!**
 - 📫 Email saya: **irfanramadhan.dev@gmail.com**
