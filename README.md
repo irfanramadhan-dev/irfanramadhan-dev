@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo!+%F0%9F%91%8B+Saya+Irfan+Ramadhan;Full+Stack+Web+Developer;Dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo!+%F0%9F%91%8B+Saya+Irfan+Nur+Ramadan;Mahasiswa;Dari+Purwokerto+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Membangun Web yang Responsif dan Terstruktur</h3>
@@ -11,7 +11,7 @@
 ```javascript
 const irfan = {
     lokasi: "Purwokerto",
-    peran: "Full Stack Developer",
+    peran: "Mahasiswa",
     fokus: "Web Development & API Integration",
     sedangBelajar: ["React Native", "Laravel", "Node.js"],
     email: "irfanramadhan.dev@gmail.com",
