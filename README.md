@@ -23,7 +23,7 @@ const irfan = {
 
 ## Tech Stack
 
-### Languages
+### Languages:
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
@@ -40,7 +40,7 @@ const irfan = {
   </a>
 </p>
 
-### Frontend Development
+### Frontend Development:
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="noreferrer">
@@ -69,7 +69,7 @@ const irfan = {
   </a>
 </p>
 
-### Backend & API Development
+### Backend & API Development:
 
 <p align="center">
   <a href="https://nodejs.org" rel="noreferrer">
@@ -86,7 +86,7 @@ const irfan = {
   </a>
 </p>
 
-### Database
+### Database:
 
 <p align="center">
   <a href="https://www.postgresql.org" rel="noreferrer">
@@ -100,7 +100,7 @@ const irfan = {
   </a>
 </p>
 
-### Tools & Workflow
+### Tools & Workflow:
 
 <p align="center">
   <a href="https://code.visualstudio.com" rel="noreferrer">
