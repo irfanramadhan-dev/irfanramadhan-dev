@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo!+%F0%9F%91%8B+Saya+Irfan+Nur+Ramadan;Saya+Mahasiswa;Dari+Purwokerto" alt="Typing SVG" />
 </div>
-
 <h3 align="center">Membangun Web yang Responsif dan Terstruktur</h3>
-
 ---
 
 ## Tentang Saya
@@ -146,22 +144,18 @@ const irfan = {
 ## Mari Terhubung!
 
 <div align="center">
-
 <p align="center">
-  <a href="https://linkedin.com/in/irfan-nur-ramadan" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://linkedin.com/in/irfan-nur-ramadan" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
+  <a href="https://irfanramadhan-portfolio.vercel.app" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:irfanramadhan.dev@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="35" width="35" />
+  <a href="mailto:irfanramadhan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/6281392813981" target="_blank" rel="noreferrer" title="WhatsApp">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="35" width="35" />
+  <a href="https://wa.me/6281392813981" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -171,7 +165,6 @@ const irfan = {
 
 ## Featured Projects
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
@@ -179,11 +172,9 @@ const irfan = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 <div align="center">
   
 ### 💙 Terima kasih sudah berkunjung! Mari berkolaborasi! 💙
-
 **⭐ Jangan lupa kasih bintang di repository yang menarik! ⭐**
 
 </div>
