@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Halo!+%F0%9F%91%8B+Saya+Irfan+Ramadhan;Full+Stack+Web+Developer;Dari+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Membangun Web App yang Keren dan Bermakna</h3>
+<h3 align="center">Membangun Web yang Responsif dan Terstruktur</h3>
 
 ---
 
@@ -25,7 +25,7 @@ const irfan = {
 
 ### Languages
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
