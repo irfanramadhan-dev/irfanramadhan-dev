@@ -148,17 +148,20 @@ const irfan = {
 <div align="center">
 
 <p align="center">
-  <a href="https://linkedin.com/in/irfan-nur-ramadan" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/irfan-nur-ramadan" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  <a href="https://irfanramadhan-portfolio.vercel.app" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
   </a>
-  <a href="mailto:irfanramadhan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="mailto:irfanramadhan.dev@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="35" width="35" />
   </a>
-  <a href="https://wa.me/6281392813981" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/6281392813981" target="_blank" rel="noreferrer" title="WhatsApp">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" height="35" width="35" />
   </a>
 </p>
 
